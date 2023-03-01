@@ -1,0 +1,16 @@
+.all{
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+    display: flex;
+}
+.searching{
+    width: 70%;
+    height: 10vh;
+    background-color: white;
+}
+.logan{
+    width: 30%;
+    height: 10%;
+    background-color: black;
+}
