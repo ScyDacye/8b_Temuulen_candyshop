@@ -6,7 +6,7 @@
 body{
     width: 100%;
     height: 100vh;
-    display: flex;
+    display: flex   ;
     background-color: rgb(124, 207, 207);
 }
 
