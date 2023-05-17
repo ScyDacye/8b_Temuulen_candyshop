@@ -3,18 +3,64 @@
     padding: 0;
 }
 
+.full{
+    height: 130vh;
+    width: 100%;
+    display: flex;
+}
 
+.container{
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
 
 .up{
     width: 100%;
-    height: 20%;
+    height: 15%;
     display: flex;
 }
-    
-.up button{
-    width: 90%;
-    height: 23%;
-    font-size: 0.6em;
-    border-radius: 100px;
+
+.left1{
+    width: 80%;
+    height: 100%;
+    top: 0;
+    left: 0;
 }
 
+.right1{
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+
+.baruun{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zuun{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.baruun button{
+width: 70%;
+height: 40%;
+background: transparent;
+border-radius: 20px;
+}
+
+.zuun button{
+    width: 70%;
+height: 40%;
+background-color: black;
+border-radius: 20px;
+color: white;
+}
