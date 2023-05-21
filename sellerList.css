@@ -6,7 +6,6 @@
 .full{
     height: 130vh;
     width: 100%;
-    display: flex;
 }
 
 .container{
@@ -66,5 +65,14 @@ color: white;
 
 .left2{
     width: 85%;
-    height: ;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.center{
+    width: 100%;
+    height: 15%;
+    display: flex;
 }
